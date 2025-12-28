@@ -71,7 +71,7 @@ The system supports two modes of operation. Use the physical button on the Car t
 4.  Open a browser and navigate to `http://192.168.4.1`.
 5.  Use the on-screen sliders and buttons to drive the car.
 
-## 👥 Contributors
+## Contributors
 * **Course:** EEE4103 Microprocessor And Embedded System
 * **Institution:** American International University-Bangladesh
 * **Semester:** Fall 2025-2026
